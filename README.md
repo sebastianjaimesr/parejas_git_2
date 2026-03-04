@@ -3,3 +3,4 @@
 
 ## colaboradores
 - sebasjaimes
+- Sebastian Diaz
